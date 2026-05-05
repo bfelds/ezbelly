@@ -3,7 +3,7 @@ layout: default
 title: My People
 ---
 
-<p style="font-size: 0.95em;"><a href="/privacy">Privacy Policy</a> · <a href="/terms">Terms of Service</a></p>
+<p style="font-size: 0.95em;"><a href="https://www.ezbelly.com/privacy">Privacy Policy</a> · <a href="https://www.ezbelly.com/terms">Terms of Service</a></p>
 
 # My People
 
@@ -34,5 +34,16 @@ My People connects to a single Gmail and Google Calendar account (read and write
 
 ## Privacy & Terms
 
-- [Privacy Policy](/privacy) — what data the app accesses, how it's stored, how to revoke access
-- [Terms of Service](/terms) — conditions of use
+- <a href="https://www.ezbelly.com/privacy">Privacy Policy</a> — what data the app accesses, how it's stored, how to revoke access
+- <a href="https://www.ezbelly.com/terms">Terms of Service</a> — conditions of use
+
+<hr/>
+
+<footer style="margin-top: 2em; padding-top: 1em; border-top: 1px solid #ddd; font-size: 0.9em; color: #555;">
+  <p>
+    <strong>My People</strong> &middot;
+    <a href="https://www.ezbelly.com/">Home</a> &middot;
+    <a href="https://www.ezbelly.com/privacy">Privacy Policy</a> &middot;
+    <a href="https://www.ezbelly.com/terms">Terms of Service</a>
+  </p>
+</footer>
