@@ -22,6 +22,7 @@ Maintaining real relationships takes attention, and that attention gets eaten by
 
 My People connects to a single Gmail and Google Calendar account (read and write) so it can read messages from the people being tracked, draft replies for review, and add events to the calendar. The app is for personal use only — no other users, no third-party sharing, no analytics.
 
-## Privacy
+## Privacy & Terms
 
-See the [Privacy Policy](/privacy) for details on what data the app accesses, how it's stored, and how to revoke access.
+- [Privacy Policy](/privacy) — what data the app accesses, how it's stored, how to revoke access
+- [Terms of Service](/terms) — conditions of use
