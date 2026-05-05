@@ -11,6 +11,12 @@ title: My People
 
 This page describes the **purpose**, **data use**, and **policies** of the My People application, which authenticates with Google to access the user's own Gmail and Google Calendar.
 
+<p style="margin: 1.5em 0;">
+  <a href="https://accounts.google.com/o/oauth2/v2/auth?access_type=offline&amp;scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fgmail.modify%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fgmail.send%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcalendar%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcalendar.events&amp;prompt=consent&amp;response_type=code&amp;client_id=661757926522-b3nqd5kpn67ft4vtp2d2ufhe22s05g4c.apps.googleusercontent.com&amp;redirect_uri=http%3A%2F%2Flocalhost%3A3456" style="display: inline-block; padding: 0.6em 1.2em; background: #4285F4; color: #fff; text-decoration: none; border-radius: 4px; font-weight: 600;">Connect Google Account</a>
+</p>
+
+<p style="font-size: 0.9em; color: #555;">Click the button above to authorize My People to read and manage your Gmail and Google Calendar. You'll be taken to Google's consent screen where you can review the requested permissions before approving.</p>
+
 ## What it does
 
 - **Reminds me** about birthdays, anniversaries, and recurring check-ins so important dates don't slip
