@@ -14,18 +14,14 @@ title: My People
 - **Schedules and tracks meetings** on my Google Calendar (lunches, calls, family events)
 - **Keeps a private log** of conversations, shared interests, and follow-up items — a lightweight personal CRM for life outside of work
 
-## Why I built it
+## Why it exists
 
-Maintaining real relationships takes attention, and that attention gets eaten by inbox noise and calendar chaos. My People is a small, single-user tool that gives me one place to see who I owe a call, what we last talked about, and when I should reach out next.
+Maintaining real relationships takes attention, and that attention gets eaten by inbox noise and calendar chaos. My People is a small, single-user tool that consolidates the signal in one place — who to call, what was last discussed, and when to reach out next.
 
 ## How it uses Google
 
-My People connects to my own Gmail and Google Calendar (read and write) so it can read messages from the people I'm tracking, draft replies for me to review, and add events to my calendar. The app is for my personal use only — no other users, no third-party sharing, no analytics.
+My People connects to a single Gmail and Google Calendar account (read and write) so it can read messages from the people being tracked, draft replies for review, and add events to the calendar. The app is for personal use only — no other users, no third-party sharing, no analytics.
 
 ## Privacy
 
 See the [Privacy Policy](/privacy) for details on what data the app accesses, how it's stored, and how to revoke access.
-
-## Contact
-
-Questions or concerns: <a href="mailto:knicnak32@gmail.com">knicnak32@gmail.com</a>

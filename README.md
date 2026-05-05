@@ -20,7 +20,7 @@ Push to `main`. GitHub Pages builds automatically.
 Point `www.ezbelly.com` at GitHub Pages with a CNAME record:
 
 ```
-www.ezbelly.com  CNAME  bfelds.github.io
+www.ezbelly.com  CNAME  <github-username>.github.io
 ```
 
 For apex (`ezbelly.com`), add A records to GitHub's IPs:

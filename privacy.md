@@ -8,11 +8,11 @@ permalink: /privacy
 
 _Last updated: May 4, 2026_
 
-**My People** ("the app") is a personal-use application operated by Ben Feldman. This policy explains what data the app accesses, how it is used, and how it is stored.
+**My People** ("the app") is a personal-use application. This policy explains what data the app accesses, how it is used, and how it is stored.
 
 ## Who uses this app
 
-The app is single-user. The only user is the developer (Ben Feldman). The app is not offered to, marketed to, or installed by any other person or organization.
+The app is single-user. The only user is the operator who installs and authorizes it. The app is not offered to, marketed to, or installed by any other person or organization.
 
 ## What data the app accesses
 
@@ -36,15 +36,13 @@ The app does **not**:
 
 ## How the data is stored
 
-- Authentication tokens are stored locally on the developer's hardware.
-- Email content and calendar events fetched by the app are processed in memory or stored locally for the user's own reference; nothing is transmitted to third-party services beyond Google's own APIs.
-- The app runs on a private home server. There is no cloud backend operated by the developer.
+- Authentication tokens are stored locally on the operator's own hardware.
+- Email content and calendar events fetched by the app are processed in memory or stored locally for the operator's own reference; nothing is transmitted to third-party services beyond Google's own APIs.
+- The app runs on a private server controlled by the operator. There is no cloud backend.
 
 ## Data retention and deletion
 
-You can revoke the app's access at any time by visiting your [Google Account permissions page](https://myaccount.google.com/permissions) and removing "My People". Once access is revoked, the app can no longer read or modify your account.
-
-To request deletion of any local data the app has cached, contact the developer at the address below.
+The operator can revoke the app's access at any time by visiting the [Google Account permissions page](https://myaccount.google.com/permissions) and removing "My People". Once access is revoked, the app can no longer read or modify the account. Any local data cached by the app can be deleted by removing it from the operator's local storage.
 
 ## Limited use disclosure
 
@@ -53,9 +51,3 @@ The app's use and transfer of information received from Google APIs to any other
 ## Changes to this policy
 
 If this policy changes, the updated version will be posted at this URL with a new "Last updated" date.
-
-## Contact
-
-For questions about this policy or about how the app handles your data:
-
-**Ben Feldman** — <a href="mailto:knicnak32@gmail.com">knicnak32@gmail.com</a>
