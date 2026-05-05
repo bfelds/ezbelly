@@ -3,9 +3,13 @@ layout: default
 title: My People
 ---
 
+<p style="font-size: 0.95em;"><a href="/privacy">Privacy Policy</a> · <a href="/terms">Terms of Service</a></p>
+
 # My People
 
 **My People** is a personal relationship-management assistant that helps me stay in touch with the people who matter most — family, close friends, and frequent collaborators.
+
+This page describes the **purpose**, **data use**, and **policies** of the My People application, which authenticates with Google to access the user's own Gmail and Google Calendar.
 
 ## What it does
 
